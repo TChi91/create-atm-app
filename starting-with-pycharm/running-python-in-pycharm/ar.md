@@ -4,6 +4,6 @@
 
 ## في حال واجهتك مشكلة أثناء عمل Create
 
-![NoPython](./assets/no-python.png =400x184)
+![NoPython](./assets/no-python.png)
 
 راجع جزئية تنصيب البايثون وربطها مع PATH في الدرس السابق (المشاكل الشائعة في PyCharm).

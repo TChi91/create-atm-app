@@ -4,7 +4,7 @@
 
 ## إذا ماهي البيئة المناسبة لإنتاج المشاريع ؟
 
-![pycharm](./assets/pycharm.png =350x350)
+![pycharm](./assets/pycharm.png =150x150)
 
 لكل لغة برمجة أداوتها الخاصة, بالنسبة للغة python فبرنامج PyCharm هو الأشهر.
 

@@ -1,4 +1,4 @@
-![CreditCard](./assets/credit_card.png =356x350)
+![CreditCard](./assets/credit_card.png =350x482)
 
 ## مالذي سنقوم به في هذه الورشة ؟
 
