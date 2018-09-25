@@ -1,3 +1,5 @@
+![Simpson](./assets/simpson-thinking.png)
+
 ## لماذا PyCharm ربما لا يناسبك ؟
 
 ### 1. برنامج PyCharm ثقيل على جهازي
@@ -15,3 +17,7 @@
 ## كيف أستعمل VSCode
 
 في الوحدة القادمة, سنتعرف على كيفية استعمال VSCode في التطوير باستخدام بايثون. بإمكانك بعدها اختيار المحرر الذي يناسبك :wink:
+
+* مصدر الصورة:
+
+https://www.maxpixel.net/Homer-Simpsons-Thinking-Cartoon-Tv-Show-Comic-155238
