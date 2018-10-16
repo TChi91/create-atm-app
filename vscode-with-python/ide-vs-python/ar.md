@@ -2,7 +2,7 @@
 
 استعملنا حتى الآن كلاً من Python و IDE.
 
-### ولكن ماهو الـ IDE (Integrated Development Environment) ؟
+### ولكن ماهو الـ IDE - Integrated Development Environment ؟
 
 الـ IDE هو بيئة تطوير متكاملة تكتب عليها الكود وتشغله وتقوم بتصحيحه.
 
