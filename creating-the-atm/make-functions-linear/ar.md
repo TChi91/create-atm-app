@@ -3,9 +3,6 @@
 ```
 def withdraw(balance, request):
     # allowed papers: 100, 50, 10, 5, and cents
-
-    balance = 500
-    request = 275
     
     if   request > balance:
         print("Can't give you all this money !!")
