@@ -4,7 +4,7 @@
 def withdraw(balance, request):
     # allowed papers: 100, 50, 10, 5, and cents
     
-    if   request > balance:
+    if request > balance:
         print("Can't give you all this money !!")
         return balance
     
@@ -49,7 +49,7 @@ print(balance)
 المشكلة في الكود السابق هو أن الدالة تقوم بعمل return في عدة أماكن.
 
 ```
-    if   request > balance:
+    if request > balance:
         print("Can't give you all this money !!")
         return balance
     
