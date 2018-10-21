@@ -8,7 +8,7 @@ $ حاول مرة أخرى أو راجع الدرس السابق
 
 -
 
-^ مبدأ SRP يجب أن يطبق أيضاً على الـ classes
+^ مبدأ Single Responsibility Principle - SRP يجب أن يطبق أيضاً على الـ classes
 
 ** صحيح
 
