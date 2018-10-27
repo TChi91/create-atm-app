@@ -133,3 +133,6 @@ elif request < 5:
 ```
 
 سأترك لك هذا الجزء لتحله بنفسك :wink:
+
+
+* [مصدر الصورة](https://hackernoon.com/this-is-not-the-dry-you-are-looking-for-a316ed3f445f)
