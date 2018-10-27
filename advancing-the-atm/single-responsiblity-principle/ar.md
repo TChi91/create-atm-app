@@ -26,5 +26,5 @@
 
 ## مصادر
 
-[SOLID Principles](https://www.youtube.com/watch?v=t86v3N4OshQ)
+https://www.youtube.com/watch?v=t86v3N4OshQ
 
