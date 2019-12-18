@@ -13,6 +13,8 @@ def withdraw(balance, request):
         return balance
     
     else:
+        result = balance - request
+        
         while request > 0:
     
             if request >= 100:
@@ -35,7 +37,8 @@ def withdraw(balance, request):
               print("give " + str(request))
               request = 0
               
-        return balance - request
+        return result
+    
     
 balance = 500
 
@@ -65,9 +68,11 @@ print(balance)
               print("give " + str(request))
               request = 0
               
-    return balance - request
+    return result
 ```
 
 حاول قدر الإمكان عمل return **واحدة في الدالة (في نهايتها)** لأن هذا سيساعدك كثيراً على تتبع الدالة أثناء اصلاح المشاكل.
 
 تعرف تقنية استعمال return واحدة فقط بـ one return statement per function.
+
+**لا تنس القيام بتعديل قيمة result في المكان المناسب ووضع قيمة افتراضية لها `result = balance` في بداية الدالة**
